@@ -1,0 +1,41 @@
+﻿Build started 09-02-18 11:06:19 অপরাহ্ন.
+     1>Project "C:\Users\moham\Desktop\prototype 14\main menu and rendering connect\Game_Demo\Game_Demo\Game_Demo.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt iMain.cpp
+         iMain.cpp
+     1>c:\users\moham\desktop\prototype 14\main menu and rendering connect\game_demo\game_demo\mainmenu.h(27): warning C4805: '==' : unsafe mix of type 'boolean' and type 'bool' in operation
+     1>c:\users\moham\desktop\prototype 14\main menu and rendering connect\game_demo\game_demo\powerup.h(93): warning C4805: '==' : unsafe mix of type 'boolean' and type 'bool' in operation
+     1>c:\users\moham\desktop\prototype 14\main menu and rendering connect\game_demo\game_demo\characterfall.h(395): warning C4805: '==' : unsafe mix of type 'boolean' and type 'bool' in operation
+     1>c:\users\moham\desktop\prototype 14\main menu and rendering connect\game_demo\game_demo\characterfall.h(472): warning C4805: '==' : unsafe mix of type 'boolean' and type 'bool' in operation
+     1>c:\users\moham\desktop\prototype 14\main menu and rendering connect\game_demo\game_demo\characterfall.h(565): warning C4805: '==' : unsafe mix of type 'boolean' and type 'bool' in operation
+     1>c:\users\moham\desktop\prototype 14\main menu and rendering connect\game_demo\game_demo\characterfall.h(610): warning C4805: '==' : unsafe mix of type 'boolean' and type 'bool' in operation
+     1>c:\users\moham\desktop\prototype 14\main menu and rendering connect\game_demo\game_demo\characterfall.h(686): warning C4805: '==' : unsafe mix of type 'boolean' and type 'bool' in operation
+     1>c:\users\moham\desktop\prototype 14\main menu and rendering connect\game_demo\game_demo\characterfall.h(698): warning C4805: '==' : unsafe mix of type 'boolean' and type 'bool' in operation
+     1>c:\users\moham\desktop\prototype 14\main menu and rendering connect\game_demo\game_demo\characterfall.h(791): warning C4805: '==' : unsafe mix of type 'boolean' and type 'bool' in operation
+     1>c:\users\moham\desktop\prototype 14\main menu and rendering connect\game_demo\game_demo\characterfall.h(851): warning C4805: '==' : unsafe mix of type 'boolean' and type 'bool' in operation
+     1>c:\users\moham\desktop\prototype 14\main menu and rendering connect\game_demo\game_demo\characterfall.h(927): warning C4805: '==' : unsafe mix of type 'boolean' and type 'bool' in operation
+     1>c:\users\moham\desktop\prototype 14\main menu and rendering connect\game_demo\game_demo\characterfall.h(971): warning C4805: '==' : unsafe mix of type 'boolean' and type 'bool' in operation
+     1>c:\users\moham\desktop\prototype 14\main menu and rendering connect\game_demo\game_demo\boss.h(144): warning C4805: '==' : unsafe mix of type 'boolean' and type 'bool' in operation
+     1>c:\users\moham\desktop\prototype 14\main menu and rendering connect\game_demo\game_demo\gameover.h(20): warning C4805: '==' : unsafe mix of type 'boolean' and type 'bool' in operation
+     1>c:\users\moham\desktop\prototype 14\main menu and rendering connect\game_demo\game_demo\gameover.h(31): warning C4805: '==' : unsafe mix of type 'boolean' and type 'bool' in operation
+     1>c:\users\moham\desktop\prototype 14\main menu and rendering connect\game_demo\game_demo\imain.cpp(203): warning C4805: '==' : unsafe mix of type 'boolean' and type 'bool' in operation
+     1>c:\users\moham\desktop\prototype 14\main menu and rendering connect\game_demo\game_demo\imain.cpp(217): warning C4805: '==' : unsafe mix of type 'boolean' and type 'bool' in operation
+     1>c:\users\moham\desktop\prototype 14\main menu and rendering connect\game_demo\game_demo\imain.cpp(227): warning C4805: '==' : unsafe mix of type 'boolean' and type 'bool' in operation
+     1>c:\users\moham\desktop\prototype 14\main menu and rendering connect\game_demo\game_demo\imain.cpp(243): warning C4805: '==' : unsafe mix of type 'boolean' and type 'bool' in operation
+     1>c:\users\moham\desktop\prototype 14\main menu and rendering connect\game_demo\game_demo\imain.cpp(249): warning C4805: '==' : unsafe mix of type 'boolean' and type 'bool' in operation
+     1>c:\users\moham\desktop\prototype 14\main menu and rendering connect\game_demo\game_demo\imain.cpp(287): warning C4805: '==' : unsafe mix of type 'boolean' and type 'bool' in operation
+     1>c:\users\moham\desktop\prototype 14\main menu and rendering connect\game_demo\game_demo\imain.cpp(303): warning C4805: '==' : unsafe mix of type 'boolean' and type 'bool' in operation
+     1>c:\users\moham\desktop\prototype 14\main menu and rendering connect\game_demo\game_demo\imain.cpp(314): warning C4805: '==' : unsafe mix of type 'boolean' and type 'bool' in operation
+     1>c:\users\moham\desktop\prototype 14\main menu and rendering connect\game_demo\game_demo\imain.cpp(324): warning C4805: '==' : unsafe mix of type 'boolean' and type 'bool' in operation
+     1>c:\users\moham\desktop\prototype 14\main menu and rendering connect\game_demo\game_demo\imain.cpp(330): warning C4805: '==' : unsafe mix of type 'boolean' and type 'bool' in operation
+     1>c:\users\moham\desktop\prototype 14\main menu and rendering connect\game_demo\game_demo\imain.cpp(358): warning C4805: '==' : unsafe mix of type 'boolean' and type 'bool' in operation
+     1>c:\users\moham\desktop\prototype 14\main menu and rendering connect\game_demo\game_demo\imain.cpp(437): warning C4805: '==' : unsafe mix of type 'boolean' and type 'bool' in operation
+     1>c:\users\moham\desktop\prototype 14\main menu and rendering connect\game_demo\game_demo\imain.cpp(478): warning C4805: '==' : unsafe mix of type 'boolean' and type 'bool' in operation
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\moham\Desktop\prototype 14\main menu and rendering connect\Game_Demo\Debug\Game_Demo.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\moham\Desktop\prototype 14\main menu and rendering connect\Game_Demo\Debug\Game_Demo.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\moham\Desktop\prototype 14\main menu and rendering connect\Game_Demo\Debug\Game_Demo.lib" /MACHINE:X86 Debug\iMain.obj
+         Game_Demo.vcxproj -> C:\Users\moham\Desktop\prototype 14\main menu and rendering connect\Game_Demo\Debug\Game_Demo.exe
+     1>Done Building Project "C:\Users\moham\Desktop\prototype 14\main menu and rendering connect\Game_Demo\Game_Demo\Game_Demo.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.23
